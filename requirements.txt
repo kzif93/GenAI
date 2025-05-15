@@ -1,0 +1,11 @@
+
+streamlit
+langchain
+langchain-community
+llama-cpp-python
+faiss-cpu
+sentence-transformers
+transformers
+python-dotenv
+unstructured
+openpyxl
