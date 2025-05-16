@@ -12,3 +12,4 @@ huggingface-hub
 pypandoc
 python-docx
 PyMuPDF
+langchain-community
