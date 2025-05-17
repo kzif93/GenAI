@@ -1,14 +1,11 @@
 streamlit
-langchain
-langchain-community
+langchain==0.1.17
+langchain-community==0.0.26
 llama-cpp-python
 faiss-cpu
-sentence-transformers
-transformers
-python-dotenv
+huggingface-hub
 unstructured
 openpyxl
-huggingface-hub
 pypandoc
 python-docx
 PyMuPDF
