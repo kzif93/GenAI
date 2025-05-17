@@ -1,11 +1,5 @@
 streamlit
 langchain==0.1.17
 langchain-community==0.0.26
-llama-cpp-python==0.2.64
-faiss-cpu==1.7.4
-huggingface-hub==0.20.3
-unstructured==0.10.25
-openpyxl==3.1.2
-pypandoc==1.11
-python-docx==1.1.0
-PyMuPDF==1.23.3
+huggingface-hub
+openpyxl
